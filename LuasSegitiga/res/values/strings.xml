@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Luas Segitiga</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_nama">Nama Kelompok</string>
+    <string name="btn1">Kelompok</string>
+    <string name="str1">Masukan Alas</string>
+    <string name="str2">Masukan Tinggi</string>
+    <string name="btn2">Hitung</string>
+    <string name="goto2">GoToNama</string>
+    <string name="hsl1">Hasilnya Adalah</string>
+    <string name="hsl2"/>
+    <string name="goto1">Hasil</string>
+    <string name="title_activity_hasil">Hasil</string>
+    <string name="ary">Ni Made Ary Novitadewi 19103182</string>
+    <string name="wulan">Wulan Maulina 19103342</string>
+    <string name="erika">Ni Putu Erika Yanti 19103351</string>
+    <string name="desak">Desak Yuliana Pramesti Dewi 19103377</string>
+
+</resources>
